@@ -34,9 +34,10 @@
 ---
 
 ## 🐍 Contribution Snake Animation
-![snake gif](https://github.com/Anupam262005/Anupam262005/blob/output/github-contribution-grid-snake.svg)
 
----
+![snake gif](https://github.com/Anupam262005/Anupam262005/blob/output/github-snake.svg)
+![snake gif dark](https://github.com/Anupam262005/Anupam262005/blob/output/github-snake-dark.svg)
+![ocean snake](https://github.com/Anupam262005/Anupam262005/blob/output/ocean.gif)--
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
