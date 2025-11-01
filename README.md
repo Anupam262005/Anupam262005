@@ -33,10 +33,8 @@
 
 ---
 
-## 🐍 Contribution Snake (Dark Mode)
-
-![snake animation](https://raw.githubusercontent.com/Anupam262005/Anupam262005/output/snake-dark.svg)
-
+## 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/Anupam262005/Anupam262005/output/github-snake.svg)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
